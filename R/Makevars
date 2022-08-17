@@ -1,2 +1,0 @@
-PKG_LIBS=-L./lib -lpeer
-PKG_CPPFLAGS= -I ./../External -I .. -DSWIG
